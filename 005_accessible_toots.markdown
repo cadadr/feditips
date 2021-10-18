@@ -1,5 +1,4 @@
-Göktuğ's #FediTips No. 005
-(Accessible toots)
+# Göktuğ's #FediTips No. 005 (Accessible toots)
 
 Hello again\! Today we're talking about how to author accessible toots.
 This may end up being longish as there's a lot to cover and the UI just
